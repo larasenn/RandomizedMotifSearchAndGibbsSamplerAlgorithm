@@ -4,5 +4,7 @@ Contains implementation of Randomized Motif Search and Gibbs Sampler algorithms 
 scores and consensus strings obtained for different k values.
 
 Taylan Rojen Döğer
+
 Lara Gülsüm Şen
+
 Uğur Alp Yavuz
